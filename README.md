@@ -1,4 +1,4 @@
-# BMICalculator
+# BMI Calculator is a college project.
 
 A simple and user-friendly BMI (Body Mass Index) calculator application. It allows users to input their weight and height to calculate their BMI and see the corresponding health category.
 
